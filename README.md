@@ -2,8 +2,8 @@
 
 ## Table of Contents
 * [Overview](#Overview)
-* [Used Dependencies](# Used Dependencies)
-* [Learning Outcomes](# Learning Outcomes)
+* [Used Dependencies](#Used-Dependencies)
+* [Learning Outcomes](#Learning-Outcomes)
 
 ## Overview
 It's a client-server application that allows the clients to store their data on the server in JSON format.
