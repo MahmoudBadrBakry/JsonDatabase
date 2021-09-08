@@ -13,8 +13,8 @@ It's a client-server application that allows the clients to store their data on 
 - Gson : a Java serialization/deserialization library to convert Java Objects into JSON and back.
 
 ## Learning Outcomes
-Working with JSON in Java. 
-Practice parallelization and see how to implement processing multiple requests at the same time.
-Applying client server model (Network Programming).
-Working with files.
+- Working with JSON in Java. 
+- Practice parallelization and see how to implement processing multiple requests at the same time.
+- Applying client server model (Network Programming).
+- Working with files.
 
