@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Overview](#Overview)
 * [Used Dependencies](#Used Dependencies)
-* [Learning outcomes](#Learning outcomes)
+* [Learning Outcomes](#Learning Outcomes)
 
 ## Overview
 It's a client-server application that allows the clients to store their data on the server in JSON format.
@@ -12,7 +12,7 @@ It's a client-server application that allows the clients to store their data on 
 - JCommander : a very small Java framework that makes it trivial to parse command line parameters.
 - Gson : a Java serialization/deserialization library to convert Java Objects into JSON and back.
 
-## Learning outcomes
+## Learning Outcomes
 Working with JSON in Java. 
 Practice parallelization and see how to implement processing multiple requests at the same time.
 Applying client server model (Network Programming).
